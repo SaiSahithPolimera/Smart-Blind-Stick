@@ -1,6 +1,6 @@
 ## Smart Blind Stick
 
-![Smart Blind Stick Image](IMG_20221112_104141.jpg)
+![Smart Blind Stick Image](smartBlinkStick.jpg)
 
 ### What is this?
 
